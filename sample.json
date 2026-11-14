@@ -1,0 +1,31 @@
+{
+  "window_seconds": 60,
+  "allowed_lateness_seconds": 30,
+  "events": [
+    {
+      "id": "a",
+      "ts": 10,
+      "quantity": 2
+    },
+    {
+      "id": "b",
+      "ts": 70,
+      "quantity": 3
+    },
+    {
+      "id": "a",
+      "ts": 10,
+      "quantity": 2
+    },
+    {
+      "id": "c",
+      "ts": 20,
+      "quantity": 7
+    },
+    {
+      "id": "d",
+      "ts": 80,
+      "quantity": 4
+    }
+  ]
+}

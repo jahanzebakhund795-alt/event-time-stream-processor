@@ -1,0 +1,10 @@
+{
+  "duplicates": 1,
+  "late_event_ids": [
+    "c"
+  ],
+  "windows": {
+    "0": 2,
+    "60": 7
+  }
+}
